@@ -1,0 +1,6 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/biopredo/public_html/stressprotiens"
+PassengerBaseURI "/stressprotiens"
+PassengerPython "/home/biopredo/virtualenv/public_html/stressprotiens/3.6/bin/python"
+PassengerAppLogFile "/home/biopredo/logs/stress_protiens/log/app.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
